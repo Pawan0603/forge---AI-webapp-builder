@@ -1,8 +1,4 @@
-# Full Stack Agentic App Builder with Next JS, Supabase, Gemini AI, Cline SDK, Shadcn UI Tutorial 🔥🔥
-
-## https://www.youtube.com/watch?v=UUK93oW0SaA
-
-<img width="1280" height="720" alt="1" src="https://github.com/user-attachments/assets/0170ace8-9451-40b0-8d8e-d5534a05bba1" />
+# Full Stack Agentic App Builder with Next JS, Supabase, Gemini AI, Cline SDK, Shadcn UI 🔥🔥
 
 ---
 
@@ -114,7 +110,7 @@ Users get a live Sandpack preview, a persistent chat history, image upload suppo
 ### Installation
 
 ```bash
-git clone https://github.com/roadsidecoder/buildai.git
+git clone https://github.com/Pawan0603/forge---AI-webapp-builder.git
 cd buildai
 npm install
 ```
@@ -180,9 +176,3 @@ id, userId (FK), title, messages (JSON), fileData (JSON), createdAt, updatedAt
 `fileData` stores both generated files and validated dependencies as a single JSON blob.
 
 Supabase Storage bucket: `workspace-images` — public, organized by `userId/workspaceId/`.
-
----
-
-## 🌟 Show your support
-
-Give a ⭐ if this project helped you learn something new!
